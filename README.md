@@ -10,6 +10,7 @@ A lightweight, zero-dependency collection of 24-bit TrueColor terminal loading s
 * **Memory Safe**: Pre-allocated static tuples and deterministic math calculations prevent garbage collection spikes or memory leaks.
 * **Crash-Safe Cursor Handling**: Guaranteed terminal cursor restoration (`\033[?25h`) via `try...finally` blocks, even on `Ctrl+C` (`KeyboardInterrupt`).
 * **Cross-Platform**: Native support for Linux, macOS, and Windows 10/11 (Windows Terminal / PowerShell / CMD).
+* **10 second animation**: Every animation lasts for minimum 10 seconds which makes your project look more professional.
 
 ---
 
