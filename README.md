@@ -18,10 +18,10 @@ A lightweight, zero-dependency collection of 24-bit TrueColor terminal loading s
 
 | Module | Visual Style | Palette | Resolution / Technique |
 | :--- | :--- | :--- | :--- |
-| `red_black_loader.py` | Framed UI + Shimmer Progress Bar (`0-100%`) | Crimson, Scarlet & Obsidian Black | Full-block (`█`) traveling sine wave |
-| `cyber_subpixel_loader_v2.py` | Borderless Kernel Telemetry + Braille Equalizer | Electric Cyan, Neon Violet & Acid Mint | 1/8th Sub-pixel Unicode blocks (`▏▎▍▌▋▊▉█`) |
-| `emerald_matrix_screen_v3.py` | 2D Bio-Radar & Plasma Interference Field | Phosphor Forest, Emerald & Neon Lime | Multi-density ASCII/Unicode shading (`·∶∷░▒▓█`) |
-| `pixel_art_arcade_loader_v4.py` | Animated 16x16 Cyber-Skull Sprite + Embers | Synthwave Gold, Hot Magenta & Deep Indigo | Half-block vertical pixel packing (`▀` = 2px/cell) |
+| `1.py` | Framed UI + Shimmer Progress Bar (`0-100%`) | Crimson, Scarlet & Obsidian Black | Full-block (`█`) traveling sine wave |
+| `2.py` | Borderless Kernel Telemetry + Braille Equalizer | Electric Cyan, Neon Violet & Acid Mint | 1/8th Sub-pixel Unicode blocks (`▏▎▍▌▋▊▉█`) |
+| `3.py` | 2D Bio-Radar & Plasma Interference Field | Phosphor Forest, Emerald & Neon Lime | Multi-density ASCII/Unicode shading (`·∶∷░▒▓█`) |
+| `4.py` | Animated 16x16 Cyber-Skull Sprite + Embers | Synthwave Gold, Hot Magenta & Deep Indigo | Half-block vertical pixel packing (`▀` = 2px/cell) |
 
 ---
 
